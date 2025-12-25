@@ -67,9 +67,9 @@ Moderate class imbalance
 A stratified data split was used to ensure balanced representation across training and validation sets.
 
 ## How to Run the Code
-1. Clone the Repository
 git clone <your-repository-link>
 cd dog-breed-classification
+
 
 2. Install Required Packages
 pip install -r requirements.txt
